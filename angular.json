@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "voting-app"
+    }
+  },
+  "defaultProject": "voting-app",
+  "cli": {
+    "analytics": false
+  }
 }
